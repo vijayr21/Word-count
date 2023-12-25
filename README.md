@@ -38,6 +38,10 @@ print("number of words ={}".format(num_word))
 ```
 
 ### OUTPUT:
+![python 5 1](https://github.com/vijayr21/Word-count/assets/149347607/280fb6a9-5abb-44ee-9c66-ea99cb2decf0)
+![python 5](https://github.com/vijayr21/Word-count/assets/149347607/59a84e88-7a62-406d-b0ba-242437a2f4c2)
+
+
 
 
 
