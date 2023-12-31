@@ -27,8 +27,8 @@ Anaconda - Python 3.7
 
 ## PROGRAM:
 ```
-## Developed by: Charumathi R
-## Reference Number: 22006878
+## Developed by: VIJAY R
+## Reference Number: 23013759
 num_word=0
 with open ("sample.txt",'r') as f:
  for i in f:
